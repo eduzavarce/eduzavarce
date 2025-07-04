@@ -81,17 +81,9 @@ This project is my personal laboratory for translating software architecture the
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduzavarce&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduzavarce&layout=compact&theme=dracula&hide_border=true" />
-</p>
-
----
 
 ### 📫 How to Reach Me
 
 <p align="left">
-<a href="www.linkedin.com/in/eduzavarce" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eduzavarce" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile" height="30" width="40" /></a>
 </p>
